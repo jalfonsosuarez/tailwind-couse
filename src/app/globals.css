@@ -2,6 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
+@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:ital,wght@0,100..900;1,100..900&display=swap');
+
 :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
@@ -29,5 +31,18 @@ body {
 @layer utilities {
   .text-balance {
     text-wrap: balance;
+  }
+}
+
+@layer components {
+  .card {
+    @apply bg-red-500 w-20 h-20 grid place-content-center 
+            rounded-lg text-white font-bold 
+            border-2 border-red-600 text-4xl;
+  }
+  .gridcard {
+    @apply bg-red-500 grid place-content-center 
+            rounded-lg text-white font-bold 
+            border-2 border-red-600 text-4xl;
   }
 }

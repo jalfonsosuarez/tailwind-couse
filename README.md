@@ -1,36 +1,31 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Curso de Tailwind
 
-## Getting Started
+Dentro del HTML hay comentarios que aclaran lo que se explica en los vídeos.
 
-First, run the development server:
+2024-07-02
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- Instalo el cascarón de NextJs y le indico que voy a usar Tailwind.
+- Empiezo a seguir el [curso de Tailwind de CodingTube](https://www.youtube.com/watch?v=gvdvuGSksDU&list=PLJubkp8BnTJu9khizC7ywblms1YzdLO3g)
+- Crear Tailwind desde cero (no es necesario para NextJS).
+- Cómo instalar correctamente Tailwind en tu proyecto.
+- Cómo aplicar colores en Tailwind y personalizarlos.
+- Cómo trabajar el ancho y el alto en Tailwind CSS.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2024-07-03
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- Aprende a manejar estados de campos input en tailwind.
+- Domina psudoclases en tailwind.
+- Como usar correctamente los BreakPoint en Tailwind. Diseño responsive.
+- Aprende a usar FlexBox correctamente en Tailwind.
+- Como usar Grid correctamente el Tailwind.
+- Dark. Modo oscuro en Tailwind.
+- Creando un componente en Tailwind.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+2024-07-05
 
-## Learn More
+- Termino el curso con la realización del componente.
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+# He usado NextJs y Tailwind.
+- Para instalar NextJs ```npx create-next-app@latest```
+- Versionb 20 de NodeJs.
