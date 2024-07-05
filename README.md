@@ -28,4 +28,4 @@ Dentro del HTML hay comentarios que aclaran lo que se explica en los vídeos.
 
 # He usado NextJs y Tailwind.
 - Para instalar NextJs ```npx create-next-app@latest```
-- Versionb 20 de NodeJs.
+- Version 20 de NodeJs.
